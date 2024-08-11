@@ -10,5 +10,5 @@ Imports: methods, AnnotationDbi
 License: Artistic-2.0
 organism: Quercus suber
 species: Quercus suber
-biocViews: OrgDb, annotation
+biocViews: OrgDb, Annotation
 
